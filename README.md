@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alaa Mah-moud
-- 👀 I’m interested in electronics, programming, coding, digital drawing and embedded systems 
-- 🌱 I’m currently learning Java , C
-- 💞️ I’m looking for suitable training , internship
+- 👀 I’m interested in electronics, programming, coding, digital drawing, testing and embedded systems 
+- 🌱 I’m currently using Java , C , C++ , Python
+- 💞️ I’m looking for suitable training , internship , position in Testing or Embedded fields
 - 📫 Go check my behance too⬇️
 https://www.behance.net/alaa__
 <!---
